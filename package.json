@@ -1,0 +1,15 @@
+{
+  "name": "cc-test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "bitcoinjs-lib": "~1.5.7",
+    "bitcore": "~0.12.10"
+  }
+}
