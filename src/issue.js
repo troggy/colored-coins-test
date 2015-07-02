@@ -24,11 +24,11 @@ var asset = {
 		"amount": 1
 	}],
 	"metadata": {
+		"issuer": "troggy",
+		"assetName": "Sixth Asset",
 		"userData": {
-			"ID": "ID",
-			"Name": "AssetName",
-			"Description": "AssetDescription",
-			"Type": "AssetType"
+			"Name": "Some asset name",
+			"Description": "Very informative description"
 		}
 	}
 };
