@@ -10,6 +10,7 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "bitcoinjs-lib": "~1.5.7",
-    "bitcore": "~0.12.10"
+    "bitcore": "~0.12.12",
+    "lodash": "~3.10.0"
   }
 }
